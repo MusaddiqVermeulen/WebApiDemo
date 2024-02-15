@@ -8,3 +8,5 @@ Create
 Read
 Update
 Delete
+
+-- I added onto it and did model binding aswell
