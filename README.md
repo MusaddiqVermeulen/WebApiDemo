@@ -9,4 +9,6 @@ Read
 Update
 Delete
 
--- I added onto it and did model binding aswell
+-- Web Api Basics: Practice and went through Web Api Controllers, Model Binding, Routing, Model Validation with DataAnnotation, 
+                                              Model Validation with Validation Attribute, Web API Return types, 
+                                              Introduction to In-Memory Repository and Model Validation with Action Filter
